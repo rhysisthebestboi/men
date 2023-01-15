@@ -73,6 +73,7 @@ h3 {
   padding-bottom: 10px;
   width: 50%;
   padding-left: 20px;
+  padding-right: 20px;
 }
 
 .desc {
@@ -81,7 +82,7 @@ h3 {
   font-weight: bold;
   border-style: dotted;
   border-width: 5px;
-  border-color: cyan;
+  border-color: darkblue;
 }
 
 li {
