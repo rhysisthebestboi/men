@@ -1,0 +1,90 @@
+body {
+  background-image: url("https://cdn.glitch.global/eedfd779-042c-43a3-8c58-ec156a532603/daniel-leone-g30P1zcOzXo-unsplash.jpg?v=1673648723563");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-weight: 800;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #0ccfb5;
+  font-size: 65px;
+}
+
+h2 {
+  font-weight: 600;
+  font-family: "Sans-serif";
+  color: #05f721;
+}
+
+.sideBar {
+  color: red;
+  font-weight: 700;
+}
+
+.sidebar {
+  border-style: double;
+  border-width: 5px;
+  width: 20%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: normal;
+  text-align: center;
+}
+
+.img1 {
+  width: 450px;
+  height: 350px;
+  border-style: dashed;
+  border-width: 8px;
+  border-color: teal;
+  border-radius: 20%;
+}
+
+nav {
+  background-color: maroon;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  margin: 10px;
+}
+button {
+  background-color: green;
+  border-style: solid;
+  border-radius: 25%;
+  height: 30px;
+  width: auto;
+}
+
+.imOnThisPage {
+  background-color: blue;
+}
+
+h3 {
+  font-size: 40px;
+  font-family: "sans-serif";
+  border-style: double;
+  border-width: 10px;
+  border-color: darkblue;
+  color: purple;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  width: 50%;
+  padding-left: 20px;
+}
+
+.desc {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: cyan;
+}
+
+li {
+  font-weight: 700;
+  color: navy;
+}
