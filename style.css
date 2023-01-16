@@ -77,12 +77,13 @@ h3 {
 }
 
 .desc {
-  color: rgb(13, 163, 28);
+  color: rgb(46, 10, 222);
   font-size: 20px;
   font-weight: bold;
   border-style: dotted;
   border-width: 5px;
   border-color: darkblue;
+  background-color: aqua;
 }
 
 li {
