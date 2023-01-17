@@ -113,3 +113,7 @@ a:hover {
 a:active {
   color: rgb(255, 0, 255);
 }
+
+.form {
+  width: auto;
+}
