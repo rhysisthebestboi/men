@@ -96,20 +96,20 @@ li {
 }
 
 a:link {
-  color: red;
+  color: rgb(71, 239, 25);
 }
 
 /* visited link */
 a:visited {
-  color: green;
+  color: rgb(247, 4, 4);
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: rgb(54, 40, 255);
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: rgb(255, 0, 255);
 }
