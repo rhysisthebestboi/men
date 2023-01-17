@@ -94,3 +94,22 @@ li {
 .sky{
   background-image: url("/leo-chane-4LBhGBSYky4-unsplash.jpg");
 }
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
