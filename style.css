@@ -117,11 +117,3 @@ a:hover {
 a:active {
   color: rgb(255, 0, 255);
 }
-
-.form {
-  width: 700px;
-}
-
-.safe {
-  font-weight: 10px;
-}
