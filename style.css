@@ -34,8 +34,8 @@ h2 {
 }
 
 .img1 {
-  width: max-content;
-  height:max-content;
+  width: 150%;
+  height:150%;
   border-style: dashed;
   border-width: 8px;
   border-color: teal;
