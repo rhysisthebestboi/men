@@ -1,23 +1,23 @@
 body {
-  background-color: black;
-  color: #530e80;
+  background-color: 	rgb(30,33,36);
+  color: #7289da;
 }
 
 h1 {
   font-weight: 800;
   font-family: "Righteous";
-  color:#218b33;
+  color:#7289da;
   font-size: 65px;
-  text-shadow: #002d89 1px 0 10px;
+  text-shadow: #4f5d93 1px 0 10px;
 }
 h2 {
   font-family: "Sans-serif";
-  color: #218b33;
+  color: #7289da;
   font-weight: 600;
 }
 
 .sideBar {
-  color: gray;
+  color: #424594;
   font-weight: 700;
 }
 
