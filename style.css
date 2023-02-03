@@ -1,18 +1,16 @@
 body {
   background-color: 	rgb(30,33,36);
-  color: #7289da;
+  color: rgb(66, 69, 73);
 }
 
 h1 {
   font-weight: 800;
   font-family: "Righteous";
-  color:#7289da;
   font-size: 65px;
   text-shadow: #4f5d93 1px 0 10px;
 }
 h2 {
   font-family: "Sans-serif";
-  color: #7289da;
   font-weight: 600;
 }
 
@@ -37,12 +35,12 @@ h2 {
   height:50%;
   border-style: dashed;
   border-width: 8px;
-  border-color: #218b33;
+  border-color: rgb(54, 57, 62);
   border-radius: 20%;
 }
 
 nav {
-  background-color: #424549;
+  background-color: rgb(40, 43, 48);
   padding-left: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -51,7 +49,7 @@ nav {
   border-color: #424549;
 }
 button {
-  background-color: #218b33;
+  background-color: #7289da;
   border-style: solid;
   border-radius: 25%;
   height: 30px;
@@ -63,7 +61,7 @@ background-color: darkgray;
 }
 
 .imOnThisPage {
-  background-color: navy;
+  background-color: #1e2124;
 }
 
 h3 {
@@ -72,7 +70,6 @@ h3 {
   border-style: double;
   border-width: 10px;
   border-color: darkblue;
-  color: purple;
   padding-top: 15px;
   padding-bottom: 10px;
   width: 50%;
