@@ -47,8 +47,11 @@ nav {
   padding-right: 20px;
   margin: 10px;
   border-color: #424549;
+  position: fixed;
   top: 0;
-}
+  left: 0;
+  right: 0;
+  z-index: 9999;}
 button {
   background-color: #7289da;
   border-style: solid;
