@@ -116,11 +116,12 @@ a:active {
 
 .nav li {
   float: left;
+  padding: 5px 3px;
 }
 
 .nav li a {
   display: block;
-  color: white;
+  color:oldlace;
   text-align: center;
   text-decoration: none;
 }
