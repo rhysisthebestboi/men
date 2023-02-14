@@ -137,4 +137,5 @@ li a:hover {
   padding: 0;
   width: 100%;
   cursor: pointer;
+  overflow: hidden;
 }
