@@ -116,7 +116,6 @@ a:active {
 
 .nav li {
   float: left;
-  padding: 5px 3px;
 }
 
 .nav li a {
@@ -134,7 +133,7 @@ li a:hover {
   position: fixed;
   top: 0;
   margin: 0;
-  padding: 0;
+  padding: 13 14;
   width: 100%;
   cursor: pointer;
   overflow: hidden;
